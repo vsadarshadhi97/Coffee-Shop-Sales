@@ -48,8 +48,6 @@ The dashboard is designed to help business owners make informed decisions using 
 # 📷 Dashboard Preview
 
 
-## 📷 Dashboard Preview
-
 ![Coffee Shop Dashboard](screenshots/dashboard.png)
 
 ---
