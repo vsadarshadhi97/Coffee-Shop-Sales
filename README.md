@@ -186,8 +186,10 @@ Coffee-Shop-Sales-Excel-Dashboard/
 ├── Coffee_Shop_Sales_Dashboard.xlsx
 ├── Coffee_Shop_Sales.csv
 ├── README.md
-├── Dashboard.png
-└── Business_Insights.pdf
+├── screenshots/
+│   └── dashboard.png
+└── insights/
+    └── Business_Insights.pdf
 ```
 
 ---
