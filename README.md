@@ -16,7 +16,6 @@ This project demonstrates how Excel can be used as a powerful Business Intellige
 - [Business Insights](#-business-insights)
 - [Tools & Skills Used](#-tools--skills-used)
 - [Repository Structure](#-repository-structure)
-- [How to Use](#-how-to-use)
 - [Learning Outcomes](#-learning-outcomes)
 - [Author](#-author)
 
@@ -191,17 +190,6 @@ Coffee-Shop-Sales-Excel-Dashboard/
 └── insights/
     └── Business_Insights.pdf
 ```
-
----
-
-# 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open **Coffee_Shop_Sales_Dashboard.xlsx** in Microsoft Excel.
-3. Use the Month and Day slicers to interact with the dashboard.
-4. Explore the charts and KPIs to gain business insights.
-
----
 
 # 📚 Learning Outcomes
 
